@@ -3,10 +3,10 @@ console.log('Script loaded!')
 var cacheStorageKey = 'minimal-pwa-8'
 
 var cacheList = [
-  '/',
+  './',
   "index.html",
   "main.css",
-  "e.png",
+  "./e.png",
   "pwa-fonts.png"
 ]
 
